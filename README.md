@@ -72,6 +72,7 @@ Exclusions:
 By the end of semester two, the project will deliver a comprehensive predictive analytics model and actionable insights that can guide decision-making in the Irish aviation industry. A well-documented final report and presentation will summarize the key findings and model outputs.
 
 Data Sources
+
 The primary data source for this project is the Passengers, Freight and Commercial Flights dataset provided by the Central Statistics Office (CSO) of Ireland. This dataset includes historical data on passenger volumes, freight shipments and the number of commercial flights across Irish airports (Dorgan, 2024). The dataset is available at https://data.cso.ie/table/TAM07.
 The dataset contains 516,132 entries, including details on flight statistics, routes, airports and revenue-related metrics. It will serve as the primary source for analysis and modelling. No external data sources will be necessary unless complementary industry benchmarks are needed for context.
 Data permissions will be ensured for the use of this internal dataset, with particular attention to data privacy requirements and compliance with relevant data-sharing agreements.
@@ -102,6 +103,7 @@ Additionally, the predictions and insights provided by the model will be used re
 
 
 References
+
 CanYou (2024). The Importance of Aviation to Irish Tourism: Interdependent, Symbiotic and Critical. [online] Irish Tourism Industry Confederation - ITIC. Available at: https://www.itic.ie/aviation-report-2024/.
  A National Aviation Policy For Ireland. (2015). Available at: https://assets.gov.ie/14197/9b90e1b8a47d47c8950ead2492a54030.pdf.
  Marketing, S.I. (2023). The Economic Impact of Airports. [online] Airport Gurus. Available at: https://www.airportgurus.com/en/economic-impact-of-airports/.
