@@ -83,6 +83,7 @@ The dataset used in this project is the Irish Central Statistics Office publicly
 Ethical Considerations
 
 Since this project relies on publicly available data, there are no significant privacy concerns (Jayan, 2024). However, ethical considerations will include:
+
 •	Data Privacy: Ensuring that no personally identifiable information (PII) is included in the dataset.
 •	Bias in Predictions: Careful consideration will be given to avoid biases in the predictive models, such as over-reliance on historical data that may not reflect future trends accurately.
 •	Data Use Compliance: The project will strictly adhere to the licensing agreements of the datasets used.
