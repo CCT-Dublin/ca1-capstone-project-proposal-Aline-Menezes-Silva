@@ -1,23 +1,3 @@
-¬
-
-
-Student Full Name:	Aline Menezes da Silva
-Student Number:	Sba23164
-Module Title:	Strategic Thinking
-Assessment Title:	CA1 Capstone Project Proposal 
-Assessment Due Date:	27th October 2024
-Date of Submission:	27th October 2024
-
-
-
-
-
-
-
-
-
- 
-
 Capstone Project Proposal
 Predictive Analytics for Passenger and Freight Demand
 
