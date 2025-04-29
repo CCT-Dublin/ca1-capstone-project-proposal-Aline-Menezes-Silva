@@ -32,111 +32,16 @@ References	5
 
  
 Introduction
-
-The aviation industry is essential for global transportation. Helping economies grow by connecting people, businesses and goods. Irish airports are key hubs for international trade and travel. Where tourism and aviation sectors are closely connected and rely on each other. Tourism depends on air travel to attract visitors, while airlines need tourists to fill their seats. This relationship is crucial for facilitating trade, investment and particularly tourism, which is Ireland's largest native industry, representing 13% of all jobs and serving as the biggest employer in many regions (THE IMPORTANCE OF AVIATION TO IRISH TOURISM, 2024). 
-This project aims to use predictive analytics to forecast future demand for passengers, freight, and commercial flights at Irish airports. Using historical data, the goal is to create models that can predict trends in air travel, helping with airport operations, resource planning and strategic decisions.
-The capstone project addresses real-world challenges such as fluctuating passenger numbers, seasonal variations and the increasing demand for cargo transportation. By developing predictive models, the project can assist in improving operational efficiency, optimizing airport infrastructure and offering data-driven insights for decision-making.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Objectives
-
-Develop Predictive Models: Create machine learning models to forecast passenger traffic, freight volumes and commercial flights at Irish airports.
-Analyse Trends and Seasonality: Identify key trends, seasonal patterns and external factors influencing demand for air travel and freight services.
-Optimize Airport Operations: Provide insights for airport management to optimize staff scheduling, runway usage and terminal capacity based on predicted demand.
-Support Strategic Planning: Deliver actionable insights that help airports and airlines to make data-driven decisions regarding capacity expansion and flight scheduling.
-Real-World Impact:
-The project addresses challenges like fluctuating passenger numbers and increasing demand for cargo transport. By improving demand forecasting, airports can plan for peak times and make data-driven decisions about capacity and service expansion.
-
-Problem Definition
-
-Airports often face challenges in predicting the demand for flights, passengers and freight services, leading to operational inefficiencies. Overestimating demand can result in underutilized resources, while underestimating it can cause congestion, delays and a poor customer experience (Airline Customer Experience – Improve Airport Experience, 2024). Predictive analytics can help airports manage these challenges by forecasting demand more accurately. This project seeks to address the problem of demand uncertainty by developing data-driven models that anticipate changes in passenger and freight flows, thereby enabling airports to better allocate resources and plan for the future.
-The impact of this problem is significant, as inefficiencies in airport operations can lead to increased costs.  Addressing this issue with predictive models will improve the overall functioning of Irish airports and their ability to handle future growth.
-
-
-
-
-
-Project Scope
-
-The project will be organized into distinct phases, ensuring it meets goals and success criteria (Casucian, 2024). Providing ample depth and scope to be completed over two semesters.
-Below is the detailed scope: 
-
-First Semester
-Phase 1: Data Collection and Preprocessing (Weeks 1–4)
-In this phase, the dataset will be explored, cleaned and prepared for analysis. This includes handling missing values, outliers and inconsistencies in the dataset. Feature engineering will also be performed to create new variables that may enhance model performance.
-Expected Outcome: A clean, well-structured dataset ready for analysis.
-Phase 2: Exploratory Data Analysis (Weeks 5–8)
-Conduct exploratory data analysis (EDA) to identify trends, correlations and key patterns in passenger traffic, freight volumes and flight types. Visualization techniques will be used to gain deeper insights into the factors influencing flight and passenger behaviour.
-Expected Outcome: A comprehensive report with visualizations showcasing key patterns and trends.
-Phase 3: Model Development (Weeks 9–12)
-Build predictive models using machine learning techniques (e.g., time series forecasting, regression analysis) to forecast passenger volumes, freight activity and commercial flight trends. Multiple models will be tested, with an emphasis on accuracy and interpretability.
-Expected Outcome: A fully functional predictive model capable of forecasting flight traffic.
-
-Second Semester
-Phase 4: Model Evaluation and Optimization (Weeks 1–4)
- Evaluate model performance using appropriate metrics. Hyperparameter tuning and model optimization techniques will be applied to ensure the best possible performance. The models will be tested on historical data to assess their accuracy in real-world applications.
-Expected Outcome: Finalized, optimized models with documented performance metrics.
-Phase 5: Industry and Policy Insights (Weeks 5–8)
-Based on the model’s predictions, assess the impact of changes in flight demand on Irish airports and flight planning. Generate insights that can aid in decision-making for airlines and airport authorities.
-Expected Outcome: A detailed report with actionable insights for industry stakeholders.
-
-Phase 6: Final Refinements and Presentation (Weeks 9–12)
-Incorporate feedback, finalize the model, reports and recommendations. Develop a polished presentation of the findings and a user-friendly dashboard to showcase predictive capabilities.
-Expected Outcome: A complete capstone project submission, including the model, report and presentation materials.
-First Semester: 12 weeks total (3 phases)
-Second Semester: 12 weeks total (3 phases)
-
- 
-Figure 1 - Capstone Project Timetable
-
-
-
-Inclusions:
-•	Forecasting passenger, freight and commercial flight volumes.
-•	Analysis of factors influencing air traffic, including seasonality and economic variables.
-•	Development of predictive models for traffic patterns.
-•	Recommendations for optimizing flight operations and planning based on the analysis.
-Exclusions:
-•	Analysis outside of Ireland or unrelated to air traffic patterns.
-•	Legal or regulatory analysis of aviation laws.
-•	Development of new flight booking or reservation systems.
-By the end of semester two, the project will deliver a comprehensive predictive analytics model and actionable insights that can guide decision-making in the Irish aviation industry. A well-documented final report and presentation will summarize the key findings and model outputs.
-
-Data Sources
-The primary data source for this project is the Passengers, Freight and Commercial Flights dataset provided by the Central Statistics Office (CSO) of Ireland. This dataset includes historical data on passenger volumes, freight shipments and the number of commercial flights across Irish airports (Dorgan, 2024). The dataset is available at https://data.cso.ie/table/TAM07.
-The dataset contains 516,132 entries, including details on flight statistics, routes, airports and revenue-related metrics. It will serve as the primary source for analysis and modelling. No external data sources will be necessary unless complementary industry benchmarks are needed for context.
-Data permissions will be ensured for the use of this internal dataset, with particular attention to data privacy requirements and compliance with relevant data-sharing agreements.
-The datasets will be cleaned and pre-processed to ensure compatibility and relevance to the project.
-Data Permissions:
-The dataset used in this project is the Irish Central Statistics Office publicly available under open-access policies. No proprietary or sensitive data will be used without proper authorization, ensuring compliance with data-sharing policies.
-
-Ethical Considerations
-
-Since this project relies on publicly available data, there are no significant privacy concerns (Jayan, 2024). However, ethical considerations will include:
-•	Data Privacy: Ensuring that no personally identifiable information (PII) is included in the dataset.
-•	Bias in Predictions: Careful consideration will be given to avoid biases in the predictive models, such as over-reliance on historical data that may not reflect future trends accurately.
-•	Data Use Compliance: The project will strictly adhere to the licensing agreements of the datasets used.
-Additionally, the predictions and insights provided by the model will be used responsibly, ensuring that airports do not make decisions solely based on predictions without considering other operational factors.
-
-
-
-
+Candy has been a popular treat for centuries, and its popularity continues to grow. Whether you’re launching a new candy brand or expanding an existing one, a solid go-to-market strategy is crucial for success. In this article, we’ll explore the key elements of a successful candy go-to-market strategy. 
+Before launching a candy product, it’s important to understand the candy market landscape. The candy market is highly competitive, with many established brands. However, there are also opportunities for new and innovative candy products, especially in the niche market.
+When it comes to candy, there are many different types and flavors available to consumers. From chocolate bars to gummy candies, the options are endless. It’s important to understand the preferences of the target audience to create a product that will stand out in the market. For example, some consumers may prefer sour candies, while others may prefer sweet or savory options.
+The candy market is expected to grow steadily, with a projected compound annual growth rate (CAGR) of 3.4% until 2026. This growth can be attributed to factors such as the increasing urbanization, disposable income, and changing consumer preferences. The market size and growth potential provide an opportunity for new entrants to capture a share of the market.
+In addition to the overall growth of the candy market, there are also specific niche markets that are experiencing growth. For example, the organic candy market has seen a surge in popularity in recent years as consumers become more health-conscious. This presents an opportunity for new entrants to tap into this growing market.
+By product type, the market is classified into chocolate candy and non-chocolate candy (hard boiled candies, gums, jellies, caramels & nougat, mints, and others). The chocolate candy segment is anticipated to hold a major share of the global market. Chocolate has been a beloved treat for centuries. The rich flavor profile and variety of textures cater to a wide range of consumers. Chocolate is seen as a premium and indulgent treat, making it a go-to option for gifting someone or as an indulgence. This perception aligns with the growing trend of premiumization to drive the candy market growth. Seasonal and festive sales of chocolate products, such as those during holidays, including Christmas and Valentine's Day, highly impact the market as a large portion of chocolate products are sold during these periods. According to the National Confectioners Association (NCA) report, in 2023, 60% of total candy sales were made during four major seasons, including Valentine’s Day, Winter holidays, Easter, and Halloween (Candy Market, 2025).
+The non-chocolate segment is expected to grow considerably over the forecast period. The non-chocolate segment consists of hard-boiled candies, gums, jellies, caramels & nougat, mints, and others. Gummy, lollipop, and sour candies are popular among children, whereas mints and sugar-free hard candies cater to more adults. The non-chocolate segment is experiencing a wave of innovation in flavors and textures. New candy formulations with innovative flavor combinations are constantly emerging. Manufacturers are also coming with new product launches in this category. For instance, in May 2024, Chupa Chups, one of India’s leading lollipop brands, entered the sour and fruity sweets segment owing to the growing demand. The new range comprises Sour Apple Belts, Sour Mixed Belts, Sour Strawberry Belts, and Strawberry Laces.
+Candy distribution is a crucial process in the confectionery industry. It involves the transportation and delivery of candies from the manufacturer to the retailers, wholesalers, or direct to consumers. Efficient candy distribution is essential to ensure that candies reach the customers in a timely and cost-effective manner. 
+In the competitive retail industry, accurate sales forecasting and data-driven decision-making are crucial for maintaining efficiency and profitability. This project focuses on analysing sales data from a US-based candy distributor over a four-year period. The dataset includes valuable information such as customer locations, factory deliveries, sales orders, and product details, which will be used to uncover trends, patterns, and key business insights.
+By applying exploratory data analysis (EDA), time series forecasting, and regression techniques, this project aims to develop reliable sales predictions that can help optimise inventory management, improve logistics, and maximise profits. The findings will support the distributor in making smarter business decisions, ensuring they remain competitive in a fast-moving market.
 
 
 
